@@ -1,12 +1,24 @@
 <template>
+  <div>
   <div id="app">
     <div id="nav">
       <router-link to="/">Home</router-link> |
-      <router-link to="/about">About</router-link>
+      <router-link to="/gallery">Gallery</router-link>
     </div>
     <router-view/>
+    <!--<button class="button is-primary is-large">I'm a large Bulma button</button>-->
+
+
+  </div>
+
   </div>
 </template>
+
+<script>
+  // import TestComponent from '@/components/Item.vue'
+
+
+</script>
 
 <style lang="scss">
 #app {
