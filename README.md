@@ -1,6 +1,7 @@
 # Pagination Using Vue JS (vue cli3)
 ```
 an unusual and very simple way to paginate
+```
 ## Project setup
 ```
 npm install
